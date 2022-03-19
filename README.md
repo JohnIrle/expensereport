@@ -92,11 +92,9 @@ The ExpenseReport example currently exists in the following languages:
 - Whitespace
 
 ## Solutions
-To see solutions, switch to the [solutions branch](https://github.com/christianhujer/expensereport/tree/solutions).
-
 **Warning** The solutions branch will be rebased!
 
-Currently, soltuions exist in the following languages:
+Currently, solutions exist in the following languages:
 - [Go](expensereport-go/) (with BDD)
 - [Java](expensereport-java/) (with BDD)
 - [Kotlin](expensereport-kotlin/) (with BDD)
